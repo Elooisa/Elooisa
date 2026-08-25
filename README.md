@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning React, Java and web development concepts<br>🎯 Goals: Become a full-stack developer<br>🎲 Fun fact: I started learning programming on my phone</p>
-
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Java, Python and SQL concepts<br>🎯 Goals: Become a Ethical Hacker in CyberSecurity. <br>
 ###
 
 <h2 align="left">I code with</h2>
